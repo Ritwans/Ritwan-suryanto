@@ -1,6 +1,16 @@
 - 👋 Hi, I’m @Ritwan suryanto
 - # 💫 About Me:
-👂I am a freelance soundman<br>🤼‍♂️I collaborate with several sound system vendors
+👂Salam, saya Ritwan Suryanto, seorang profesional dalam bidang sound engineering dan programming. Dengan pengalaman lebih dari 5 tahun di industri ini, saya telah bekerja pada berbagai proyek suara dan pengembangan perangkat lunak yang sukses.
+
+Sebagai seorang soundman, saya memiliki kemampuan untuk menciptakan nuansa suara yang unik dan mendalam untuk berbagai jenis acara, baik itu konser, acara korporat, film, atau acara live lainnya. Pengalaman saya dalam mengatur system audio, mixing, dan mastering telah memungkinkan saya memberikan pengalaman audio terbaik untuk klien saya.
+
+Sebagai seorang programmer, saya memiliki keahlian dalam mengembangkan dan mendesain perangkat lunak yang inovatif dan efisien. Saya telah terlibat dalam pengembangan aplikasi desktop dan mobile, serta mengimplementasikan solusi teknis untuk berbagai masalah kompleks. Kemampuan saya dalam bahasa pemrograman seperti Java, Python, dan C++ memungkinkan saya untuk menciptakan solusi bespoke yang sesuai dengan kebutuhan klien.
+
+Portofolio saya mencakup berbagai proyek, mulai dari pengaturan suara untuk festival musik hingga pengembangan perangkat lunak khusus untuk perusahaan-perusahaan terkemuka. Saya percaya bahwa kombinasi antara kemampuan sound engineering dan programming saya telah memperkuat kemampuan saya untuk memberikan solusi terbaik dalam industri ini.
+
+Saya memiliki dedikasi yang tinggi dalam memberikan hasil terbaik untuk setiap proyek yang saya tangani, serta komitmen untuk terus belajar dan mengembangkan kemampuan saya. Saya percaya bahwa keterampilan saya dalam sound engineering dan programming dapat menjadi aset berharga bagi setiap proyek yang saya jalani.
+
+Terima kasih atas waktu dan perhatiannya. Saya sangat antusias untuk berkolaborasi dan memberikan kontribusi yang berarti dalam proyek Anda. Mari diskusikan lebih lanjut bagaimana saya dapat membantu mencapai tujuan bersama dalam hal sound dan teknologi.<br>
 
 ![IMG-20240509-WA0006(1)](https://github.com/Ritwans/Ritwan/assets/138361789/9b415866-be5d-46e5-8dcd-a4f1a0cf6e42)
 ![Screenshot_20240528-200714_One Read](https://github.com/Ritwans/Ritwan/assets/138361789/04e87e48-6f4b-4820-bca7-6120ee63f5d2)
